@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-01T19:38:03 CST" name="Default suite" finished-at="2023-01-01T19:38:36 CST" duration-ms="33390">
+    <groups>
+    </groups>
+    <test started-at="2023-01-01T19:38:03 CST" name="Default test" finished-at="2023-01-01T19:38:36 CST" duration-ms="33390">
+      <class name="PageTest.LoginPageTest">
+        <test-method signature="ValidUserShouldBeableToLogin()[pri:0, instance:PageTest.LoginPageTest@4f209819]" started-at="2023-01-01T19:38:03 CST" name="ValidUserShouldBeableToLogin" finished-at="2023-01-01T19:38:36 CST" duration-ms="33353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidUserShouldBeableToLogin -->
+      </class> <!-- PageTest.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
